@@ -39,7 +39,7 @@ MERN Stack Developer from Kerala, India 🌴
 
 ---
 ## 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/Minnu_Anil?theme=dark&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Anamika_Anil12?theme=dark&ext=heatmap)
 
 
 
