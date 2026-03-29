@@ -37,5 +37,9 @@ MERN Stack Developer from Kerala, India 🌴
 ## 📫 Connect With Me
 - LinkedIn:https://www.linkedin.com/in/anamikaanil12/
 
+---
+## 🧠 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Minnu_Anil?theme=dark&ext=heatmap)
+
 
 
