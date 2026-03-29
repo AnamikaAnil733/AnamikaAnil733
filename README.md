@@ -13,6 +13,8 @@ MERN Stack Developer from Kerala, India 🌴
 - React.js  
 - Node.js, Express.js  
 - MongoDB
+
+---
   
 ### ♟️ Knightly (Chess Platform)
 - Real-time chess gameplay  
